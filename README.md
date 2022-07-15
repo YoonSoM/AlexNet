@@ -27,3 +27,4 @@ AlexNet은 8개의 레이어로 구성되어 있다. 5개의 컨볼루션 레이
 5) data augmentation: 과적합을 막기 위해 dropout 말고도 또다른 방법이 사용되었다. 과적합을 막는 가장 좋은 방법 중 하나는 데이터의 양을 늘리는 것이다. 훈련시킬 때 적은 양의 데이터를 가지고 훈련시킬 경우 과적합될 가능성이 크기 때문이다. 따라서 AlexNet의 개발자들은 data augmentation이란 방법을 통해 데이터의 양을 늘렸다. 
 
  ![Alt text](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FviqCJ%2FbtqBD1C97Ax%2FVRY44kp7K8Y1VpqNdu7fJk%2Fimg.png)
+* * *
